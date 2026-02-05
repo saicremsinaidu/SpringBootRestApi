@@ -92,6 +92,7 @@ Entity/DTO classes
 git clone https://github.com/saicremsinaidu/SpringBootRestApi.git
 cd SpringBootRestApi
 
-
-
+### 2. Build the project
+```bash
+mvn clean install
 
