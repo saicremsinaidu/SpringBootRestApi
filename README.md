@@ -92,7 +92,7 @@ Entity/DTO classes
 git clone https://github.com/saicremsinaidu/SpringBootRestApi.git
 cd SpringBootRestApi
 
-### Server URL
-http://localhost:8080
+**Server URL**
+```http://localhost:8080
 
 
