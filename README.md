@@ -42,27 +42,7 @@ Ideal for:
 
 ## 📂 Project Structure
 
-SpringBootRestApi
-│
-├── src/main/java/com/cremsi
-│   ├── controller
-│   │   └── JobRestController.java
-│   │
-│   ├── service
-│   │   └── JobService.java
-│   │
-│   ├── repo
-│   │   └── JobRepo.java
-│   │
-│   ├── model
-│   │   └── JobPost.java
-│   │
-│   └── SpringbootRestApplication.java
-│
-├── src/main/resources
-│   └── application.properties
-│
-└── pom.xml
+<img width="660" height="972" alt="image" src="https://github.com/user-attachments/assets/056bb155-9093-4f7f-958f-4bfaa772fd35" />
 
 
 ---
